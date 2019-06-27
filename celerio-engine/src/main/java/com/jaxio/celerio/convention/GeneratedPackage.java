@@ -25,7 +25,7 @@ import static com.jaxio.celerio.util.PackageUtil.assemblePackage;
  * Commonly used package names.
  */
 public enum GeneratedPackage {
-	/* package: <code>&lt;root package&gt;.audit</code> */
+	/* package: <code>&lt;root package&gt;.jaxio.commons</code> */
 	JaxioCommons("jaxio.commons"), //
     /* package: <code>&lt;root package&gt;.audit</code> */
     Audit("audit"), //
